@@ -1,0 +1,8 @@
+version: '2'
+services:
+    rymos_core:
+        build: .
+        ports:
+            - "8888:8080"
+        environment:
+          - ASPNETCORE_URLS=http://+:8080

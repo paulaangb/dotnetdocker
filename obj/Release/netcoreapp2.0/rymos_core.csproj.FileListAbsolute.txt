@@ -1,0 +1,11 @@
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/bin/Release/netcoreapp2.0/rymos_core.deps.json
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/bin/Release/netcoreapp2.0/rymos_core.runtimeconfig.json
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/bin/Release/netcoreapp2.0/rymos_core.runtimeconfig.dev.json
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/bin/Release/netcoreapp2.0/rymos_core.dll
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/bin/Release/netcoreapp2.0/rymos_core.pdb
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/obj/Release/netcoreapp2.0/rymos_core.csprojResolveAssemblyReference.cache
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/obj/Release/netcoreapp2.0/rymos_core.csproj.CoreCompileInputs.cache
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/obj/Release/netcoreapp2.0/rymos_core.AssemblyInfoInputs.cache
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/obj/Release/netcoreapp2.0/rymos_core.AssemblyInfo.cs
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/obj/Release/netcoreapp2.0/rymos_core.dll
+/Users/paul/Sites/rymos_core/rymos_core/rymos_core/obj/Release/netcoreapp2.0/rymos_core.pdb
